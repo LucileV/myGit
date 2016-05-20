@@ -1,2 +1,8 @@
 # myGit
-Mon gitBuh test
+
+Voici comment utiliser ce programme :
+
+1
+2
+3
+4
